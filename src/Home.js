@@ -7,7 +7,28 @@ const Home = () => {
                 {/* <img src="/img/tajmahal.jpg" alt="taj" class="w-full"/> */}
                 </div>
             </div>
-            <h2 className="uppercase text-3xl font-semibold text-primary text-center p-4">best selling</h2>
+            <h2 className="uppercase text-3xl font-semibold text-red-500 text-center p-4">best selling</h2>
+            <div>
+                {/* cards here */}
+                <div>
+
+                </div>
+                <div>
+
+                </div>
+                <div>
+
+                </div>
+                <div>
+
+                </div>
+                <div>
+
+                </div>
+                <div>
+
+                </div>
+            </div>
         </div>
      );
 }
